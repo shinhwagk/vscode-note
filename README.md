@@ -35,7 +35,7 @@ This extension provides a simple note-taking. Make notes closer to the vscode ex
 
 ### 1 create domain and create category with note
 ![1](https://raw.githubusercontent.com/shinhwagk/vscode-note/master/images/1.gif)
-### 2 create short documnt
+### 2 create short document
 ![2](https://raw.githubusercontent.com/shinhwagk/vscode-note/master/images/2.gif)
 ### 3 create document
 ![3](https://raw.githubusercontent.com/shinhwagk/vscode-note/master/images/3.gif)
